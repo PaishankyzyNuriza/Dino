@@ -1,2 +1,2 @@
 # Website
-for final
+for final project with django
