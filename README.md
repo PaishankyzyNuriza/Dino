@@ -15,4 +15,4 @@ Just run the program and enjoy playing.If you want pause press 'ESC' button, pre
 <div align="center" ><img src="https://github.com/sgagankumar/Chrome-Dinosaur-Game-Hack/blob/master/Images/Dino_non-birthday_version.gif" alt="Image" width=auto height=152px/></div>
 
 ![дина](https://user-images.githubusercontent.com/73305001/102693857-616f7780-423f-11eb-874b-a205eb501856.JPG)
-[https://youtu.be/Fk_W2ZwrNo8](url)
+[youtu.be/Fk_W2ZwrNo8](url)
