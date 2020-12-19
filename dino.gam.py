@@ -257,7 +257,7 @@ def pause():
 
 def check_collision(barriers):
     for barrier in barriers:
-        if barrier.y == 449:  # Little cactus
+        if barrier.y == 449:  
             if not make_jump:
                 if barrier.x <= user_x + user_width - 30 <= \
                         barrier.x + barrier.width:
