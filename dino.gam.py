@@ -372,8 +372,8 @@ def show_health():
         x += 40
         show += 1
 
-        
- def check_health():
+
+def check_health():
     global health
     health -= 1
     if health == 0:
