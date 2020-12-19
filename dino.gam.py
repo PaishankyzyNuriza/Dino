@@ -117,7 +117,6 @@ def run_game():
         if check_collision(cactus_arr):
             pygame.mixer.music.stop()
             pygame.mixer.Sound.play(fall_sound)
-            # if not check_health():
             game = False
 
         show_health()
