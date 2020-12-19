@@ -1,2 +1,2 @@
-# Website
-for final project with django
+# Dinosaur game
+for final project with pygame
