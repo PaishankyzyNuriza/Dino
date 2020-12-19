@@ -371,3 +371,22 @@ def show_health():
         display.blit(health_image, (x, 20))
         x += 40
         show += 1
+
+        
+ def check_health():
+    global health
+    health -= 1
+    if health == 0:
+        pygame.mixer.Sound.play(loss_sound)
+        return False
+    else:
+        pygame.mixer.Sound.play(fall_sound)
+        return True
+while run_game():
+    scores = 0
+    make_jump = False
+    jump_counter = 30
+    user_y = display_height - user_height - 100
+    health = 5
+pygame.quit()
+quit()
