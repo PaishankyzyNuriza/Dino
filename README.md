@@ -16,6 +16,5 @@ Just run the program and enjoy playing.If you want pause press 'ESC' button, pre
 
 ![дина](https://user-images.githubusercontent.com/73305001/102693857-616f7780-423f-11eb-874b-a205eb501856.JPG)
 https://youtu.be/Fk_W2ZwrNo8
-
-
-https://repl.it/@PaishankyzyNuri/dino#main.py
+ 
+ # Thank you ! Enjoy playing!
