@@ -107,7 +107,8 @@ def run_game():
         count_scores(cactus_arr)
 
         display.blit(land, (0, 0))
-        print_text(" Made by Nuriza, student of Ala-Too University", 60, 150)
+        print_text(" Made by Nuriza and Tamerlan, "
+                   "students of Ala-Too ", 30, 150)
         print_text('Score: ' + str(scores), 600, 10)
 
         draw_array(cactus_arr)
