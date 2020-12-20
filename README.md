@@ -4,7 +4,7 @@ for final project with pygame
 # [Dinosaur-Game](chrome://dino)
 <div align="center" ><img src="https://github.com/sgagankumar/Chrome-Dinosaur-Game-Hack/blob/master/Images/IMG1.JPG" alt="Image" width=auto height=100px/></div>
 
-![Снимок](https://user-images.githubusercontent.com/73305001/102693847-561c4c00-423f-11eb-8b3a-312467e3e092.JPG)
+![Сн](https://user-images.githubusercontent.com/73305001/102723156-0bc2ca00-4328-11eb-8098-0a98d0e01287.JPG)
 ##### Used libraries: Pygame, Random
 ##### Documentation python: https://www.python.org/doc/
 ##### Documentation pygame: http://www.pygame.org/docs/ 
