@@ -24,16 +24,14 @@ https://youtu.be/Fk_W2ZwrNo8
 https://drive.google.com/file/d/1J7JPMHTPYlrtFBFGTVpbtm0u3tA0PWWj/view?usp=sharing
 ## Also here you can see 5 feedbacks from players. 
 #### 1 ALidin Omurzakov
-Hi there,
+Hello
 
-I will criticize  the work which did Nuriza for her project
-
-First of all she made a game ,named Dinosaurs . 
-And , as we know it is the game that we all know . However , her game is more interesting than the game which is on Google. 
-I really appreciate that she made an enjoyable game . In light of the fact  the game looks very nice. Also I liked that her code is readable, clear and easy to understand. 
-
-It would be better if she added some other features , like double jumping or choosing level of game. Also she did  the counting lifes, gives opportunity to play more.
-To sum up, I'm satisfied with her work. Well job!
+I will criticize  this work, done by Tamerlam and Nuriza
+this game is Dinosaur, so I have played many times it when internet was off .
+And her game is more interesting and have more functions than the game which is on Google.She did  the counting lifes, gives opportunity to play more. You can pause , you can switch off music . In fact,  the game looks very good. Also I liked that her code is easy to understand. 
+I really appreciate that she made this famous and an enjoyable game .
+It would be better if she added some other features , like double jumping.
+Totally, I would say , Great job!
 #### 2 Elira Akimbaeva
 In the moment without Wi-fi, I had really enjoyed playing this kind of game. it has an advantage of training people's coordination and attentiveness. In my opinion, it is supercool that Nuriza made it.
 #### 3 Bekzhan Baigesekov
