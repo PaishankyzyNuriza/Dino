@@ -36,3 +36,5 @@ I will criticize the work which was created by Nuriza . Her game is awesome! I'm
 The game is actually super cool! Its advantage lies in the training of coordination and attentiveness of people! I knew that Nuriza could create such a cool game! I certainly don't like playing games, but I liked this game! Graphics, gameplay, controls - awesome! Congratulations to her on this achievement! I look forward to the same cool projects!
 #### 5 Zhainagul Altynbek kyzy
 It is an enjoyable game , I liked it . And I think , this game was played by many people , when the internet was off. This game was done like an real game. The dino , cactuses are so nice. Totally , I will say good job. I appreciate this work.
+## Video Feedback from Abdymanap student of Ala-Too
+https://drive.google.com/file/d/1SZtekEUjKX_UJ-yqAQ8H3CBRQCly9gkj/view?usp=sharing
