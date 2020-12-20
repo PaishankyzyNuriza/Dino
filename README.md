@@ -20,6 +20,8 @@ Just run the program and enjoy playing.If you want pause press 'ESC' button, pre
 ![дина](https://user-images.githubusercontent.com/73305001/102693857-616f7780-423f-11eb-874b-a205eb501856.JPG)
 ### Video on YouTube
 https://youtu.be/Fk_W2ZwrNo8
+### Step-by-step tutorial
+https://drive.google.com/file/d/1J7JPMHTPYlrtFBFGTVpbtm0u3tA0PWWj/view?usp=sharing
 ## Also here you can see 5 feedbacks from players. 
 #### 1 ALidin Omurzakov
 Hi there,
