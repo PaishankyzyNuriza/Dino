@@ -5,7 +5,9 @@ for final project with pygame
 <div align="center" ><img src="https://github.com/sgagankumar/Chrome-Dinosaur-Game-Hack/blob/master/Images/IMG1.JPG" alt="Image" width=auto height=100px/></div>
 
 ![Снимок](https://user-images.githubusercontent.com/73305001/102693847-561c4c00-423f-11eb-8b3a-312467e3e092.JPG)
-
+##### Used libraries: Pygame, Random
+##### Documentation python: https://www.python.org/doc/
+##### Documentation pygame: http://www.pygame.org/docs/ 
 The dino game is a simple infinite runner, in which you jump over cacti, and dodge upcoming obstacles.<br>
 This Python Program is coded to play the dino game. In this game you will jump over cactuses, and get points, also you have 5 hearts. Each time when
 you are touching cactus you will lose one heart . When you dont have any hearts, the game will end.<br>
@@ -15,6 +17,7 @@ Just run the program and enjoy playing.If you want pause press 'ESC' button, pre
 <div align="center" ><img src="https://github.com/sgagankumar/Chrome-Dinosaur-Game-Hack/blob/master/Images/Dino_non-birthday_version.gif" alt="Image" width=auto height=152px/></div>
 
 ![дина](https://user-images.githubusercontent.com/73305001/102693857-616f7780-423f-11eb-874b-a205eb501856.JPG)
+### Video on YouTube
 https://youtu.be/Fk_W2ZwrNo8
 ## Also here you can see 5 feedbacks from players. 
 #### 1 ALidin Omurzakov
