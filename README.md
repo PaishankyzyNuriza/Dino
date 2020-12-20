@@ -8,6 +8,7 @@ for final project with pygame
 ##### Used libraries: Pygame, Random
 ##### Documentation python: https://www.python.org/doc/
 ##### Documentation pygame: http://www.pygame.org/docs/ 
+# Description
 The dino game is a simple infinite runner, in which you jump over cacti, and dodge upcoming obstacles.<br>
 This Python Program is coded to play the dino game. In this game you will jump over cactuses, and get points, also you have 5 hearts. Each time when
 you are touching cactus you will lose one heart . When you dont have any hearts, the game will end.<br>
