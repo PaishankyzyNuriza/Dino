@@ -42,3 +42,4 @@ The game is actually super cool! Its advantage lies in the training of coordinat
 It is an enjoyable game , I liked it . And I think , this game was played by many people , when the internet was off. This game was done like an real game. The dino , cactuses are so nice. Totally , I will say good job. I appreciate this work.
 ## Video Feedback from Abdymanap student of Ala-Too
 https://drive.google.com/file/d/1SZtekEUjKX_UJ-yqAQ8H3CBRQCly9gkj/view?usp=sharing
+![55185db5-6907-4cd7-bc46-504818eae960](https://user-images.githubusercontent.com/73305001/102858776-a4526a80-444c-11eb-8692-d76157a14be5.jpg)
